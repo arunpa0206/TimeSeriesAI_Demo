@@ -1,0 +1,3 @@
+u8darts[torch]
+pandas
+numpy
